@@ -14,4 +14,4 @@ YOLO、
 
 
 ## Here is an example of mobile YOLO which is from https://github.com/tucan9389/ObjectDetection-CoreML#trained-dataset-infos
-(img src="https://user-images.githubusercontent.com/48322294/198395458-f4eb4a53-bc7c-4415-b38c-f8db70121ff8.PNG" width ="50%")
+<img src="https://user-images.githubusercontent.com/48322294/198395458-f4eb4a53-bc7c-4415-b38c-f8db70121ff8.PNG" width ="50%">
