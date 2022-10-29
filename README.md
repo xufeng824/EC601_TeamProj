@@ -6,7 +6,7 @@ Our project is aim to build an App which can help the blind avoid obstacles.
 The app basically can do the detection, measurment, alart functions.
 
 ## Tools we used
-Swift -- The language to develop IOS app(I wrote a test file which is SwiftTest01)
+Swift -- The language to develop IOS app(I wrote a test file which is SwiftTest01)<br>
 ARKit -- Developed by Apple which provides us the access to using Lidar, and Iphone camera.<br>
 CoreML -- Developed by Apple which is a combination of machine learning models.
 
