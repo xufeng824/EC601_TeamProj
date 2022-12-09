@@ -24,6 +24,8 @@ Here is an example of mobile YOLO which is from https://github.com/tucan9389/Obj
 
 When the distance less than one close value
 ![WechatIMG30609](https://user-images.githubusercontent.com/48322294/206728828-87798c6c-0c16-430b-b607-5352d69dbbfd.png)
+<img src="https://user-images.githubusercontent.com/48322294/206728828-87798c6c-0c16-430b-b607-5352d69dbbfd.png" width ="40%">
+
 
 Detect the distance
 
