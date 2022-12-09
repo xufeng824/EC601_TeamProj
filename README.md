@@ -18,3 +18,13 @@ YOLO、
 Here is an example of mobile YOLO which is from https://github.com/tucan9389/ObjectDetection-CoreML#trained-dataset-infos
 
 <img src="https://user-images.githubusercontent.com/48322294/198395458-f4eb4a53-bc7c-4415-b38c-f8db70121ff8.PNG" width ="40%">
+
+
+## UI of the App
+
+When the distance less than one close value
+![WechatIMG30609](https://user-images.githubusercontent.com/48322294/206727939-776f243b-bb8a-44be-985c-234885ece1bc.png)
+
+Detect the distance
+
+![WechatIMG30608](https://user-images.githubusercontent.com/48322294/206728059-7f6b9ea0-3da2-4864-a313-174538a8dd54.png)
