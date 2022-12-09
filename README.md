@@ -23,8 +23,10 @@ Here is an example of mobile YOLO which is from https://github.com/tucan9389/Obj
 ## UI of the App
 
 When the distance less than one close value
-<img src="![WechatIMG30609](https://user-images.githubusercontent.com/48322294/206728594-ce353486-7c5d-4292-9ae0-a7ff3d202de7.png" width="40%")
+![WechatIMG30609](https://user-images.githubusercontent.com/48322294/206728828-87798c6c-0c16-430b-b607-5352d69dbbfd.png)
+
 
 Detect the distance
 
-![WechatIMG30608](https://user-images.githubusercontent.com/48322294/206728059-7f6b9ea0-3da2-4864-a313-174538a8dd54.png width ="40%")
+![WechatIMG30608](https://user-images.githubusercontent.com/48322294/206728852-1df6417b-8e0a-4fb0-9183-64105a367797.png)
+
